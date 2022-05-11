@@ -20,3 +20,5 @@
 [README.c](https://github.com/ggvignesh/19ECB132/blob/main/README.md)
 
 [SUM OF NATURAL NO'S PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c)
+
+[ASSIGNMENT OPRS.c](https://github.com/ggvignesh/19ECB132/blob/main/assignmentoprs.c)
