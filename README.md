@@ -10,3 +10,5 @@
 [DOUBLE LINKED LIST.c](https://github.com/ggvignesh/19ECB132/blob/main/DOUBLE%20LINKED%20LIST.c)
 
 [LINEARDATASTRUCTURES.c](https://github.com/ggvignesh/19ECB132/commit/c590aa81d39eac07045873e8c9c844c896830b85)
+
+[MAR 20TH 2022 PROGRAM 1.c](https://github.com/ggvignesh/19ECB132/blob/main/MAR%2020TH%202022%20PROGRAM%201.c)
