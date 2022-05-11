@@ -16,3 +16,5 @@
 [MAR 20TH 2022 PROGRAM 2.c](https://github.com/ggvignesh/19ECB132/blob/main/MAR%2020TH%202022%20PROGRAM%202.c)
 
 [MAR 20TH 2022 PROGRAM 3.c](https://github.com/ggvignesh/19ECB132/blob/main/MAR%2020TH%202022%20PROGRAM%203.c)
+
+[README.c](https://github.com/ggvignesh/19ECB132/blob/main/README.md)
