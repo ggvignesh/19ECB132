@@ -6,3 +6,5 @@
 [BITWISE AND OPR PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20AND%20OPR%20PROGRAM.c)
 
 [BITWISE OR OPR PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20OR%20OPR%20PROGRAM.c)
+
+[DOUBLE LINKED LIST.c](https://github.com/ggvignesh/19ECB132/blob/main/DOUBLE%20LINKED%20LIST.c)
