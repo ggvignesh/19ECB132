@@ -25,3 +25,4 @@
 
 [binary tree.c](https://github.com/ggvignesh/19ECB132/blob/main/binary%20tree.c)
 
+[logical oprs.c](https://github.com/ggvignesh/19ECB132/blob/main/logicaloprs.c)
