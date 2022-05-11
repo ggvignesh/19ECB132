@@ -18,3 +18,5 @@
 [MAR 20TH 2022 PROGRAM 3.c](https://github.com/ggvignesh/19ECB132/blob/main/MAR%2020TH%202022%20PROGRAM%203.c)
 
 [README.c](https://github.com/ggvignesh/19ECB132/blob/main/README.md)
+
+[SUM OF NATURAL NO'S PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c)
