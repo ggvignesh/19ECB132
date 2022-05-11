@@ -8,3 +8,5 @@
 [BITWISE OR OPR PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20OR%20OPR%20PROGRAM.c)
 
 [DOUBLE LINKED LIST.c](https://github.com/ggvignesh/19ECB132/blob/main/DOUBLE%20LINKED%20LIST.c)
+
+[LINEARDATASTRUCTURES.c](https://github.com/ggvignesh/19ECB132/commit/c590aa81d39eac07045873e8c9c844c896830b85)
