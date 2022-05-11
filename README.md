@@ -3,6 +3,6 @@
 
 [ADD,DELETE,MODIFY IN SINGLE LINKED LIST.c](https://github.com/ggvignesh/19ECB132/blob/main/ADD%2CDELETE%2CMODIFY%20IN%20SINGLE%20LINKED%20LIST.c)
 
-[Assignment 3](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20AND%20OPR%20PROGRAM.c)
+[BITWISE AND OPR PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20AND%20OPR%20PROGRAM.c)
 
-[Assignment 4](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20OR%20OPR%20PROGRAM.c)
+[BITWISE OR OPR PROGRAM.c](https://github.com/ggvignesh/19ECB132/blob/main/BITWISE%20OR%20OPR%20PROGRAM.c)
