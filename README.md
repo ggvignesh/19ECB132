@@ -28,3 +28,5 @@
 [logical oprs.c](https://github.com/ggvignesh/19ECB132/blob/main/logicaloprs.c)
 
 [relational oprs.c](https://github.com/ggvignesh/19ECB132/blob/main/relationaloprs.c)
+
+[HEIGHT OF BINARY TREE.c](https://github.com/ggvignesh/19ECB132/blob/main/HEIGHT%20OF%20BINARY%20TREE.c)
