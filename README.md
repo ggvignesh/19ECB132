@@ -10,7 +10,7 @@
 [MAR 20TH 2022 PROGRAM 2.c](MAR_20TH_2022_PROGRAM_2.c)   
 [MAR 20TH 2022 PROGRAM 3.c](MAR_20TH_2022_PROGRAM_3.c)   
 [README.c](README.md)   
-[SUM OF NATURAL NO'S PROGRAM.c](SUM_OF_NATURAL_NO'S_PROGRAM.c)   
+[SUM OF NATURAL NOS PROGRAM.c](SUM_OF_NATURAL_NOS_PROGRAM.c)   
 [ASSIGNMENT OPRS.c](assignment_oprs.c)   
 [binary tree.c](binary_tree.c)   
 [logical oprs.c](logical_oprs.c)   
