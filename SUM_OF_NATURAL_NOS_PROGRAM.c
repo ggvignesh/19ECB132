@@ -10,3 +10,7 @@ main()
 	}
 	printf("%d",s);
 }
+/* Output
+enter the integer 5
+15
+  */
