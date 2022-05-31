@@ -6,3 +6,6 @@ main()
 	printf("a=%d,b=%d",a,b);
 	printf("\n r = %d",r);
 }
+/* Output
+a=2,b=3
+ r = 2
