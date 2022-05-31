@@ -6,3 +6,7 @@ int main()
 	printf("\n(c>a && c>b) = %d", (c>a && c>b));
 	return 0;
 }
+/* Output
+(a<b && a<c) = 1
+(c>a && c>b) = 1
+*/
