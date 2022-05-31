@@ -96,3 +96,4 @@ Enter 4 element 12
 Enter i to insert/ d to delete d
 Enter element to delete 6
 8 10 12
+*/
