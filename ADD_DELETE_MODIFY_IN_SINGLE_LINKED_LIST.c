@@ -125,20 +125,20 @@ void printList(struct Node* node) {
 int main() {
   struct Node* head = NULL;
 
-  insertAtEnd(&head, 1);
-  insertAtBeginning(&head, 2);
-  insertAtBeginning(&head, 3);
-  insertAtEnd(&head, 4);
-  insertAfter(head->next, 5);
+  insertAtEnd(&head, 2);
+  insertAtBeginning(&head, 4);
+  insertAtBeginning(&head, 6);
+  insertAtEnd(&head, 8);
+  insertAfter(head->next, 10);
 
   printf("Linked list: ");
   printList(head);
 
   printf("\nAfter deleting an element: ");
-  deleteNode(&head, 3);
+  deleteNode(&head, 6);
   printList(head);
 
-  int item_to_find = 3;
+  int item_to_find = 6;
   if (searchNode(&head, item_to_find)) {
   printf("\n%d is found", item_to_find);
   } else {
@@ -151,8 +151,8 @@ int main() {
 }
 
 /* Output
-Linked list:  3  2  5  1  4 
-After deleting an element:  2  5  1  4 
-3 is not found
-Sorted List:  1  2  4  5
+Linked list:  6  4  10  2  8 
+After deleting an element:  4  10  2  8 
+6 is not found
+Sorted List:  2  4  8  10 
   */
