@@ -79,21 +79,21 @@ int main()
 }
 /* Output
 Enter size of array 4
-Enter 1 element 6
-Enter 2 element 8
-Enter 3 element 10
-Enter 4 element 12
+Enter 1 element 2
+Enter 2 element 4
+Enter 3 element 6
+Enter 4 element 8
 Enter i to insert/ d to delete i
-Enter element to insert 3
+Enter element to insert 10
 Enter positon 5
-6 8 10 12 3 
-  
+2 4 6 8 10
+
 Enter size of array 4
-Enter 1 element 6
-Enter 2 element 8
-Enter 3 element 10
-Enter 4 element 12
+Enter 1 element 2
+Enter 2 element 4 
+Enter 3 element 6
+Enter 4 element 8
 Enter i to insert/ d to delete d
-Enter element to delete 6
-8 10 12
+Enter element to delete 4
+2 6 8 
 */
