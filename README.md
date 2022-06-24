@@ -17,3 +17,4 @@
 [relational oprs.c](relational_oprs.c)   
 [HEIGHT OF BINARY TREE.c](HEIGHT_OF_BINARY_TREE.c)   
 [AVL TREE.c](AVL_TREE.c)
+[LINEAR DATA STRUCTURES.c](LINEAR_DATA_STRUCTURES.c)
