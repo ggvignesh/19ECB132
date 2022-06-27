@@ -19,4 +19,5 @@
 [AVL TREE.c](AVL_TREE.c)   
 [LINEAR DATA STRUCTURES.c](LINEAR_DATA_STRUCTURES.c)   
 [threaded binary tree.c](threaded_binary_tree.c)   
-[insertion.c](insertion.c)
+[insertion.c](insertion.c)   
+[binary search tree.c](binary_search_tree.c)
